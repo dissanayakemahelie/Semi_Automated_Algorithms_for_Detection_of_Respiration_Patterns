@@ -1,0 +1,3 @@
+To assess deviations in breathing patterns across multiple time series, the Time-Dependent Amplitude Analysis is conducted using the reference data. The goal is to determine how closely the maxima and minima of each subject's breathing signal align with those of the reference signal.
+This allows for a direct comparison of the amplitude variability, which offers a reliable metric for distinguishing between normal and non-normal breathing segments.
+Results are shown in Figure TDAA_Results, Graph 1.
