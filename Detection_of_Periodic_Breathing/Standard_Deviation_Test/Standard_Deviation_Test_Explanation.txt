@@ -1,3 +1,3 @@
 The objective of the Standard Deviation Test is to identify datasets that exhibit characteristics of periodic breathing. Such signals are typically marked by enhanced variability in the displacement waveform. This means, periodic breathing patterns have a higher standard deviation compared to other patterns.
 
-Results are shown in Standard_Deviation_Test_Result.pdf.
+Results are shown in Figure Standard_Deviation_Test_Result.pdf.
