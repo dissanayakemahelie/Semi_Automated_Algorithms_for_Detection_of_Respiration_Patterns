@@ -1,0 +1,4 @@
+Analysis of Successive Breathing Cycles assesses periodicity in non-stationary time series by sliding a window of fixed length to evaluate the similarity between the signal and the delayed versions across the time series.\
+The core idea is that if a signal exhibits periodic behaviour, then segments of the signal separated by the system's natural period will show high similarity. A delay-based self-similarity measure is computed using the windowed sum of squared differences.\
+\
+Results are shown in Figure ASBC_Results, Graph 3.
