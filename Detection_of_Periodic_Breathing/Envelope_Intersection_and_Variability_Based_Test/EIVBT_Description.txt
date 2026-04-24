@@ -2,4 +2,4 @@ The Envelope Intersection and Variability-Based Test analyses respiratory time s
 The detection process is built around a two-stage approach combining signal envelope intersection and filtering criteria.
 In the first stage, the algorithm identifies intervals using intersection points of the upper and lower envelopes of the time series. In the second stage, these intervals are filtered as either periodic or non-periodic using multi-condition logic.
 
-Results are shown in EIVBT_REsults.pdf.
+Results are shown in Figure EIVBT_REsults.pdf.
