@@ -1,0 +1,2 @@
+The method Ratio of the Standard Deviation to the Mean assesses the variability in the amplitude of breathing signals over time by analysing the ratio, which is computed from a sequence of local maxima of the instantaneous amplitude of the Hilbert-transformed respiratory signal.\
+Results are shown in Figure RSTDM_Results, Graph 2.
