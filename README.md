@@ -1,3 +1,6 @@
 This project presents several computational classification methods for differentiating between normal and non-normal breathing time series/segments (see Folder Detection_of_Normal_Breathing) and periodic and periodic breathing (see Folder Detection_of_Periodic_Breathing) time series/segments. The utilised computational techniques include: short-time Fourier transform,Thomson's multitaper method, Hilbert transform, signal/distribution properties and multi-condition logic.
 
-The Folders Detection_of_Normal_Breathing and Detection_of_Periodic_Breathing both contain subfolders containing folders for each method. Each method is presented with a short explanation and results. For further information feel free to ask. All code is stored in the folder https://github.com/dissanayakemahelie/Semi-Automated-Algorithms_for_Detection_of_Respiration_Patterns_Code. Access to the folder can be granted upon request.
+The Folders Detection_of_Normal_Breathing and Detection_of_Periodic_Breathing both contain subfolders containing folders for each method. Each method is presented with a short explanation and results. 
+For further information feel free to ask. 
+
+The code is written Python. All code is stored in the folder https://github.com/dissanayakemahelie/Semi-Automated-Algorithms_for_Detection_of_Respiration_Patterns_Code. Access to the folder can be granted upon request.
